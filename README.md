@@ -1,4 +1,4 @@
-- 👋 Hi, @amaanvarachia GitHub
+- 👋 Hi, @amaanvarachia's GitHub
 - 👀 Data Science, ML Engineering, Data Engineering
 
 
