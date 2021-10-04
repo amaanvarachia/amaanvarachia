@@ -1,5 +1,5 @@
 - 👋 Hi, @amaanvarachia's GitHub
-- 👀 Data Science, ML Engineering, Data Engineering
+- 👀 Computer Science and Engineering
 
 
 <!---
